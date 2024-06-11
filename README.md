@@ -3,3 +3,7 @@
 ## Purpose
 
 Test operation of git-flow.
+
+## Version
+
+1.0
