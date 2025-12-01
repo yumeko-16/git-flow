@@ -6,4 +6,4 @@ Test operation of git-flow.
 
 ## Version
 
-3.0.8
+3.0.9
